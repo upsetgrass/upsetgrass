@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a learner in the field of binary translation, and welcome everyone to communicate with me  :)
+
 <!--
 **upsetgrass/upsetgrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
